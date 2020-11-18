@@ -10,6 +10,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kon-shir/hexlet-js.git"
+  },
+  "author": "Konstantin Shiryaev",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
